@@ -1,6 +1,6 @@
 #mytest
 Makarevich
-Katya
+Kate
 Vadimovna
 Software engineer
 VRPO
